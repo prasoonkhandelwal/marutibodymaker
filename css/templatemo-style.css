@@ -4,6 +4,7 @@
     background: #ffffff;
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
+    width: 100vw;
   }
 
 
@@ -320,6 +321,23 @@
 @media screen and (max-width:767px){
   .menuCallBtn{
     width: 100%!important;
+  }
+  /* .navbar-header{
+    width: 100%;
+  } */
+  .navbar-collapse{
+    width: 100%!important;
+  }
+  .custom-navbar{
+    width: 100vw!important;
+  }
+  .container{
+    width: 100vw!important;
+  }
+  .row{
+    width: 96vw;
+    margin-right: 0!important;
+    margin-left: 0!important;
   }
 }
 
