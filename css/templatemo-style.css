@@ -280,6 +280,7 @@
   }
   .container{
     width: 100vw!important;
+    padding-left: 5px!important;
   }
   .row{
     width: 96vw;
